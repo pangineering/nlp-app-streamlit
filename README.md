@@ -103,9 +103,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=plastic)](pangineering@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/pangineering)
+![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=plastic)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=plastic)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
